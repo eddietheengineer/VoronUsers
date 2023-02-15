@@ -4,4 +4,7 @@ This simple LED clip allows you to mount LED Strip (60 LED/meter spacing) to you
 
 Changelog:
 
--Version 2 shortens the total height of the clip to 16.5mm vs. th. 17mm of the original version. This means the LEDs will be aligned with the openings in the baffles better. 
+- Version 3 adjusts the design to have larger hooks to grab the channel in the Misumi 2020 extrusion, and to allow more flex during insertion to accomodate the larger hooks.
+
+- Version 2 shortens the total height of the clip to 16.5mm vs. the 17mm of the original version. This means the LEDs will be aligned with the openings in the baffles better. 
+
